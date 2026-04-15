@@ -1,0 +1,198 @@
+{
+  "drug_name": "denosumab",
+  "search_time": "2026-04-15 16:12:30",
+  "uniprot": {
+    "found": true,
+    "entries": [
+      {
+        "name": "Tumor necrosis factor ligand superfamily member 11",
+        "gene_name": "TNFSF11",
+        "length": 317,
+        "mass_da": 35478,
+        "sequence": "MRRASRDYTKYLRGSEEMGGGPGAPHEGPLHAPPPPAPHQPPAASRSMFVALLGLGLGQVVCSVALFFYFRAQMDPNRISEDGTHCIYRILRLHENADFQDTTLESQDTKLIPDSCRRIKQAFQGAVQKELQHIVGSQHIRAEKAMVDGSWLDLAKRSKLEAQPFAHLTINATDIPSGSHKVSLSSWYHDRGWAKISNMTFSNGKLIVNQDGFYYLYANICFRHHETSGDLATEYLQLMVYVTKTSIKIPSSHTLMKGGSTKYWSGNSEFHFYSINVGGFFKLRSGEEISIEVSNPSLLDPDQDATYFGAFKVRDID",
+        "organism": "Homo sapiens",
+        "accession": "O14788"
+      }
+    ]
+  },
+  "clinical_trials": [
+    {
+      "nct_id": "NCT04967248",
+      "title": "A NIS of Alpelisib in Combination With Fulvestrant in Postmenopausal Women, and Men, With HR+,HER2- , Locally Advanced or Metastatic Breast Cancer With a PIK3CA Mutation, After Disease Progression Following Endocrine Therapy as Monotherapy, in the Real-world Setting",
+      "status": "TERMINATED",
+      "phase": []
+    },
+    {
+      "nct_id": "NCT06504966",
+      "title": "Study to Compare the Efficacy, Pharmacokinetics, Pharmacodynamics, Safety, and Immunogenicity of MAB-22 Versus Prolia®",
+      "status": "WITHDRAWN",
+      "phase": []
+    },
+    {
+      "nct_id": "NCT01652690",
+      "title": "Prospective Observational Study to Describe Characteristics and Management of Patients Treated With Denosumab (Prolia®) in Routine Clinical Practice",
+      "status": "COMPLETED",
+      "phase": []
+    },
+    {
+      "nct_id": "NCT03839459",
+      "title": "Denosumab for Smoldering Multiple Myeloma",
+      "status": "COMPLETED",
+      "phase": []
+    },
+    {
+      "nct_id": "NCT02347865",
+      "title": "Characteristics and Management of Postmenopausal Women With Osteoporosis Treated With Prolia® in France",
+      "status": "COMPLETED",
+      "phase": []
+    }
+  ],
+  "articles": [
+    {
+      "pmid": "19671655",
+      "pmcid": "",
+      "title": "Denosumab for prevention of fractures in postmenopausal women with osteoporosis.",
+      "authors": [
+        "Cummings SR",
+        "San Martin J",
+        "McClung MR",
+        "Siris ES",
+        "Eastell R"
+      ],
+      "journal": "The New England journal of medicine",
+      "pubdate": "2009 Aug 20",
+      "doi": "10.1056/NEJMoa0809493"
+    },
+    {
+      "pmid": "39448137",
+      "pmcid": "",
+      "title": "Prevention and Management of Denosumab Discontinuation Rebound Fractures.",
+      "authors": [
+        "Jain S"
+      ],
+      "journal": "Endocrinology and metabolism clinics of North America",
+      "pubdate": "2024 Dec",
+      "doi": "10.1016/j.ecl.2024.08.002"
+    },
+    {
+      "pmid": "26144908",
+      "pmcid": "PMC4620731",
+      "title": "Denosumab and teriparatide transitions in postmenopausal osteoporosis (the DATA-Switch study): extension of a randomised controlled trial.",
+      "authors": [
+        "Leder BZ",
+        "Tsai JN",
+        "Uihlein AV",
+        "Wallace PM",
+        "Lee H"
+      ],
+      "journal": "Lancet (London, England)",
+      "pubdate": "2015 Sep 19",
+      "doi": "10.1016/S0140-6736(15)61120-5"
+    },
+    {
+      "pmid": "33103722",
+      "pmcid": "",
+      "title": "Fracture risk and management of discontinuation of denosumab therapy: a systematic review and position statement by ECTS.",
+      "authors": [
+        "Tsourdi E",
+        "Zillikens MC",
+        "Meier C",
+        "Body JJ",
+        "Gonzalez Rodriguez E"
+      ],
+      "journal": "The Journal of clinical endocrinology and metabolism",
+      "pubdate": "2020 Oct 26",
+      "doi": "pii: dgaa756. 10.1210/clinem/dgaa756"
+    },
+    {
+      "pmid": "40057981",
+      "pmcid": "PMC12406127",
+      "title": "Denosumab discontinuation in the clinic: implications of rebound bone turnover and emerging strategies to prevent bone loss and fractures.",
+      "authors": [
+        "Kumar S",
+        "Wang M",
+        "Kim AS",
+        "Center JR",
+        "McDonald MM"
+      ],
+      "journal": "Journal of bone and mineral research : the official journal of the American Society for Bone and Mineral Research",
+      "pubdate": "2025 Aug 24",
+      "doi": "10.1093/jbmr/zjaf037"
+    },
+    {
+      "pmid": "30659428",
+      "pmcid": "",
+      "title": "Stopping Denosumab.",
+      "authors": [
+        "Lamy O",
+        "Stoll D",
+        "Aubry-Rozier B",
+        "Rodriguez EG"
+      ],
+      "journal": "Current osteoporosis reports",
+      "pubdate": "2019 Feb",
+      "doi": "10.1007/s11914-019-00502-4"
+    },
+    {
+      "pmid": "31643743",
+      "pmcid": "",
+      "title": "Denosumab.",
+      "authors": [],
+      "journal": "",
+      "pubdate": "2012",
+      "doi": ""
+    },
+    {
+      "pmid": "28789921",
+      "pmcid": "",
+      "title": "Discontinuation of Denosumab therapy for osteoporosis: A systematic review and position statement by ECTS.",
+      "authors": [
+        "Tsourdi E",
+        "Langdahl B",
+        "Cohen-Solal M",
+        "Aubry-Rozier B",
+        "Eriksen EF"
+      ],
+      "journal": "Bone",
+      "pubdate": "2017 Dec",
+      "doi": "10.1016/j.bone.2017.08.003"
+    },
+    {
+      "pmid": "37016189",
+      "pmcid": "",
+      "title": "The Clinical Effectiveness of Denosumab (Prolia®) for the Treatment of Osteoporosis in Postmenopausal Women, Compared to Bisphosphonates, Selective Estrogen Receptor Modulators (SERM), and Placebo: A Systematic Review and Network Meta-Analysis.",
+      "authors": [
+        "Moshi MR",
+        "Nicolopoulos K",
+        "Stringer D",
+        "Ma N",
+        "Jenal M"
+      ],
+      "journal": "Calcified tissue international",
+      "pubdate": "2023 Jun",
+      "doi": "10.1007/s00223-023-01078-z"
+    },
+    {
+      "pmid": "39801038",
+      "pmcid": "PMC11898325",
+      "title": "Long-Term Efficacy and Safety of Denosumab: Insights beyond 10 Years of Use.",
+      "authors": [
+        "Ha J",
+        "Lee YJ",
+        "Kim J",
+        "Jeong C",
+        "Lim Y"
+      ],
+      "journal": "Endocrinology and metabolism (Seoul, Korea)",
+      "pubdate": "2025 Feb",
+      "doi": "10.3803/EnM.2024.2125"
+    }
+  ],
+  "pharmacokinetics": [
+    {
+      "type": "bioavailability",
+      "value": "2.3%",
+      "source_pmid": "19671655"
+    }
+  ]
+}

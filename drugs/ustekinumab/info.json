@@ -1,0 +1,217 @@
+{
+  "drug_name": "ustekinumab",
+  "search_time": "2026-04-15 16:12:09",
+  "uniprot": {
+    "found": true,
+    "entries": [
+      {
+        "name": "Interleukin-23 subunit alpha",
+        "gene_name": "IL23A",
+        "length": 189,
+        "mass_da": 20730,
+        "sequence": "MLGSRAVMLLLLLPWTAQGRAVPGGSSPAWTQCQQLSQKLCTLAWSAHPLVGHMDLREEGDEETTNDVPHIQCGDGCDPQGLRDNSQFCLQRIHQGLIFYEKLLGSDIFTGEPSLLPDSPVGQLHASLLGLSQLLQPEGHHWETQQIPSLSPSQPWQRLLLRFKILRSLQAFVAVAARVFAHGAATLSP",
+        "organism": "Homo sapiens",
+        "accession": "Q9NPF7"
+      },
+      {
+        "name": "Interleukin-12 subunit beta",
+        "gene_name": "IL12B",
+        "length": 328,
+        "mass_da": 37169,
+        "sequence": "MCHQQLVISWFSLVFLASPLVAIWELKKDVYVVELDWYPDAPGEMVVLTCDTPEEDGITWTLDQSSEVLGSGKTLTIQVKEFGDAGQYTCHKGGEVLSHSLLLLHKKEDGIWSTDILKDQKEPKNKTFLRCEAKNYSGRFTCWWLTTISTDLTFSVKSSRGSSDPQGVTCGAATLSAERVRGDNKEYEYSVECQEDSACPAAEESLPIEVMVDAVHKLKYENYTSSFFIRDIIKPDPPKNLQLKPLKNSRQVEVSWEYPDTWSTPHSYFSLTFCVQVQGKSKREKKDRVFTDKTSATVICRKNASISVRAQDRYYSSSWSEWASVPCS",
+        "organism": "Homo sapiens",
+        "accession": "P29460"
+      },
+      {
+        "name": "Interleukin-12 subunit alpha",
+        "gene_name": "IL12A",
+        "length": 219,
+        "mass_da": 24874,
+        "sequence": "MCPARSLLLVATLVLLDHLSLARNLPVATPDPGMFPCLHHSQNLLRAVSNMLQKARQTLEFYPCTSEEIDHEDITKDKTSTVEACLPLELTKNESCLNSRETSFITNGSCLASRKTSFMMALCLSSIYEDLKMYQVEFKTMNAKLLMDPKRQIFLDQNMLAVIDELMQALNFNSETVPQKSSLEEPDFYKTKIKLCILLHAFRIRAVTIDRVMSYLNAS",
+        "organism": "Homo sapiens",
+        "accession": "P29459"
+      }
+    ]
+  },
+  "clinical_trials": [
+    {
+      "nct_id": "NCT06453317",
+      "title": "Comparison of Ustekinumab, Infliximab and Combination Therapy in Moderately to Severely Active Ulcerative Colitis",
+      "status": "RECRUITING",
+      "phase": []
+    },
+    {
+      "nct_id": "NCT05270733",
+      "title": "Development of Predictive Psoriasis Response Endotypes Using Single Cell Transcriptomics",
+      "status": "RECRUITING",
+      "phase": []
+    },
+    {
+      "nct_id": "NCT00747344",
+      "title": "A Phase 3 Trial to Look at the Safety and Effectiveness of Ustekinumab in Korean and Taiwanese Subjects With Moderate to Severe Plaque-type Psoriasis",
+      "status": "COMPLETED",
+      "phase": []
+    },
+    {
+      "nct_id": "NCT05252533",
+      "title": "A Study of Ustekinumab in Pediatric Participants (U-POPS) With Juvenile Psoriatic Arthritis or Psoriasis",
+      "status": "COMPLETED",
+      "phase": []
+    },
+    {
+      "nct_id": "NCT03651518",
+      "title": "Personalized Therapies in Inflammatory Complex Disease",
+      "status": "RECRUITING",
+      "phase": []
+    }
+  ],
+  "articles": [
+    {
+      "pmid": "31553833",
+      "pmcid": "",
+      "title": "Ustekinumab as Induction and Maintenance Therapy for Ulcerative Colitis.",
+      "authors": [
+        "Sands BE",
+        "Sandborn WJ",
+        "Panaccione R",
+        "O'Brien CD",
+        "Zhang H"
+      ],
+      "journal": "The New England journal of medicine",
+      "pubdate": "2019 Sep 26",
+      "doi": "10.1056/NEJMoa1900750"
+    },
+    {
+      "pmid": "27959607",
+      "pmcid": "",
+      "title": "Ustekinumab as Induction and Maintenance Therapy for Crohn's Disease.",
+      "authors": [
+        "Feagan BG",
+        "Sandborn WJ",
+        "Gasink C",
+        "Jacobstein D",
+        "Lang Y"
+      ],
+      "journal": "The New England journal of medicine",
+      "pubdate": "2016 Nov 17",
+      "doi": ""
+    },
+    {
+      "pmid": "30097359",
+      "pmcid": "",
+      "title": "Efficacy and safety of risankizumab in moderate-to-severe plaque psoriasis (UltIMMa-1 and UltIMMa-2): results from two double-blind, randomised, placebo-controlled and ustekinumab-controlled phase 3 trials.",
+      "authors": [
+        "Gordon KB",
+        "Strober B",
+        "Lebwohl M",
+        "Augustin M",
+        "Blauvelt A"
+      ],
+      "journal": "Lancet (London, England)",
+      "pubdate": "2018 Aug 25",
+      "doi": "10.1016/S0140-6736(18)31713-6"
+    },
+    {
+      "pmid": "31643346",
+      "pmcid": "",
+      "title": "Ustekinumab.",
+      "authors": [],
+      "journal": "",
+      "pubdate": "2012",
+      "doi": ""
+    },
+    {
+      "pmid": "36208443",
+      "pmcid": "",
+      "title": "Off-label uses of ustekinumab.",
+      "authors": [
+        "Ye L",
+        "Wu Z",
+        "Li C",
+        "Zhao X",
+        "Wan M"
+      ],
+      "journal": "Dermatologic therapy",
+      "pubdate": "2022 Dec",
+      "doi": "10.1111/dth.15910"
+    },
+    {
+      "pmid": "20069753",
+      "pmcid": "PMC2726595",
+      "title": "Ustekinumab.",
+      "authors": [
+        "Cingoz O"
+      ],
+      "journal": "mAbs",
+      "pubdate": "2009 May-Jun",
+      "doi": ""
+    },
+    {
+      "pmid": "18486739",
+      "pmcid": "",
+      "title": "Efficacy and safety of ustekinumab, a human interleukin-12/23 monoclonal antibody, in patients with psoriasis: 76-week results from a randomised, double-blind, placebo-controlled trial (PHOENIX 1).",
+      "authors": [
+        "Leonardi CL",
+        "Kimball AB",
+        "Papp KA",
+        "Yeilding N",
+        "Guzzo C"
+      ],
+      "journal": "Lancet (London, England)",
+      "pubdate": "2008 May 17",
+      "doi": "10.1016/S0140-6736(08)60725-4"
+    },
+    {
+      "pmid": "33618023",
+      "pmcid": "PMC8374005",
+      "title": "Five-Year Efficacy and Safety of Ustekinumab Treatment in Crohn's Disease: The IM-UNITI Trial.",
+      "authors": [
+        "Sandborn WJ",
+        "Rebuck R",
+        "Wang Y",
+        "Zou B",
+        "Adedokun OJ"
+      ],
+      "journal": "Clinical gastroenterology and hepatology : the official clinical practice journal of the American Gastroenterological Association",
+      "pubdate": "2022 Mar",
+      "doi": "10.1016/j.cgh.2021.02.025"
+    },
+    {
+      "pmid": "26092291",
+      "pmcid": "",
+      "title": "Secukinumab is superior to ustekinumab in clearing skin of subjects with moderate to severe plaque psoriasis: CLEAR, a randomized controlled trial.",
+      "authors": [
+        "Thaçi D",
+        "Blauvelt A",
+        "Reich K",
+        "Tsai TF",
+        "Vanaclocha F"
+      ],
+      "journal": "Journal of the American Academy of Dermatology",
+      "pubdate": "2015 Sep",
+      "doi": "10.1016/j.jaad.2015.05.013"
+    },
+    {
+      "pmid": "38095692",
+      "pmcid": "PMC11062601",
+      "title": "Efficacy and Safety of Ustekinumab for Ulcerative Colitis Through 4 Years: Final Results of the UNIFI Long-Term Maintenance Study.",
+      "authors": [
+        "Afif W",
+        "Arasaradnam RP",
+        "Abreu MT",
+        "Danese S",
+        "Sandborn WJ"
+      ],
+      "journal": "The American journal of gastroenterology",
+      "pubdate": "2024 May 1",
+      "doi": "10.14309/ajg.0000000000002621"
+    }
+  ],
+  "pharmacokinetics": [
+    {
+      "type": "bioavailability",
+      "value": "100%",
+      "source_pmid": "39485596"
+    }
+  ]
+}

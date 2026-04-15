@@ -1,0 +1,181 @@
+{
+  "drug_name": "garadacimab",
+  "search_time": "2026-04-15 16:12:00",
+  "clinical_trials": [
+    {
+      "nct_id": "NCT05819775",
+      "title": "CSL312_3003 Safety and Pharmacokinetic Study in Subjects 2 to 11 Years of Age With Hereditary Angioedema",
+      "status": "COMPLETED",
+      "phase": []
+    },
+    {
+      "nct_id": "NCT04281524",
+      "title": "A Clinical Study to Test the Efficacy and Safety of CSL312 on Catheter-associated Blood Clot Formation in Subjects With Cancer Who Receive Chemotherapy Through a PICC Line",
+      "status": "WITHDRAWN",
+      "phase": []
+    },
+    {
+      "nct_id": "NCT04580654",
+      "title": "A Study to Assess the Pharmacokinetics and Safety of CSL312 in Healthy Japanese and Caucasian Adults",
+      "status": "COMPLETED",
+      "phase": []
+    },
+    {
+      "nct_id": "NCT04739059",
+      "title": "Long-term Safety and Efficacy of CSL312 (Garadacimab) in the Prophylactic Treatment of Hereditary Angioedema Attacks",
+      "status": "COMPLETED",
+      "phase": []
+    },
+    {
+      "nct_id": "NCT04409509",
+      "title": "Treatment With CSL312 in Adults With Coronavirus Disease 2019 (COVID-19)",
+      "status": "COMPLETED",
+      "phase": []
+    }
+  ],
+  "articles": [
+    {
+      "pmid": "36868261",
+      "pmcid": "",
+      "title": "Efficacy and safety of garadacimab, a factor XIIa inhibitor for hereditary angioedema prevention (VANGUARD): a global, multicentre, randomised, double-blind, placebo-controlled, phase 3 trial.",
+      "authors": [
+        "Craig TJ",
+        "Reshef A",
+        "Li HH",
+        "Jacobs JS",
+        "Bernstein JA"
+      ],
+      "journal": "Lancet (London, England)",
+      "pubdate": "2023 Apr 1",
+      "doi": "10.1016/S0140-6736(23)00350-1"
+    },
+    {
+      "pmid": "39370961",
+      "pmcid": "PMC11804312",
+      "title": "Long-term safety and efficacy of garadacimab for preventing hereditary angioedema attacks: Phase 3 open-label extension study.",
+      "authors": [
+        "Reshef A",
+        "Hsu C",
+        "Katelaris CH",
+        "Li PH",
+        "Magerl M"
+      ],
+      "journal": "Allergy",
+      "pubdate": "2025 Feb",
+      "doi": "10.1111/all.16351"
+    },
+    {
+      "pmid": "40694645",
+      "pmcid": "",
+      "title": "Garadacimab.",
+      "authors": [],
+      "journal": "",
+      "pubdate": "2006",
+      "doi": ""
+    },
+    {
+      "pmid": "40434599",
+      "pmcid": "PMC12185836",
+      "title": "Network Meta-Analysis of Pharmacological Therapies for Long-Term Prophylactic Treatment of Patients with Hereditary Angioedema.",
+      "authors": [
+        "Walsh S",
+        "Bartlett M",
+        "Salvo-Halloran EM",
+        "Sears J",
+        "Li Y"
+      ],
+      "journal": "Drugs in R&D",
+      "pubdate": "2025 Jun",
+      "doi": "10.1007/s40268-025-00511-y"
+    },
+    {
+      "pmid": "40261472",
+      "pmcid": "",
+      "title": "Garadacimab: First Approval.",
+      "authors": [
+        "Fung S"
+      ],
+      "journal": "Drugs",
+      "pubdate": "2025 Jun",
+      "doi": "10.1007/s40265-025-02180-2"
+    },
+    {
+      "pmid": "40841306",
+      "pmcid": "",
+      "title": "ANDEMBRY (garadacimab-gxii).",
+      "authors": [
+        "Beninger P"
+      ],
+      "journal": "Clinical therapeutics",
+      "pubdate": "2025 Sep",
+      "doi": "10.1016/j.clinthera.2025.07.020"
+    },
+    {
+      "pmid": "40380363",
+      "pmcid": "",
+      "title": "Garadacimab improves long-term health-related quality of life in patients with hereditary angioedema.",
+      "authors": [
+        "Guilarte M",
+        "Lumry WR",
+        "Magerl M",
+        "Martinez Saguer I",
+        "Reshef A"
+      ],
+      "journal": "Allergy and asthma proceedings",
+      "pubdate": "2025 May 1",
+      "doi": "10.2500/aap.2025.46.250027"
+    },
+    {
+      "pmid": "40380356",
+      "pmcid": "",
+      "title": "Becoming attack-free further improves health-related quality of life in patients with hereditary angioedema receiving garadacimab.",
+      "authors": [
+        "Staubach P",
+        "Craig TJ",
+        "Fukuda T",
+        "Aygoren-Pursun E",
+        "Hakl R"
+      ],
+      "journal": "Allergy and asthma proceedings",
+      "pubdate": "2025 May 1",
+      "doi": "10.2500/aap.2025.46.250026"
+    },
+    {
+      "pmid": "38710185",
+      "pmcid": "",
+      "title": "Garadacimab for hereditary angioedema attack prevention: long-term efficacy, quality of life, and safety data from a phase 2, randomised, open-label extension study.",
+      "authors": [
+        "Craig TJ",
+        "Levy DS",
+        "Reshef A",
+        "Lumry WR",
+        "Martinez-Saguer I"
+      ],
+      "journal": "The Lancet. Haematology",
+      "pubdate": "2024 Jun",
+      "doi": "10.1016/S2352-3026(24)00081-4"
+    },
+    {
+      "pmid": "40876763",
+      "pmcid": "",
+      "title": "Garadacimab in hereditary angioedema due to normal C1INH with F12/PLG mutations.",
+      "authors": [
+        "Cohn DM",
+        "Reshef A",
+        "Staubach P",
+        "Lumry WR",
+        "Feuersenger H"
+      ],
+      "journal": "The Journal of allergy and clinical immunology",
+      "pubdate": "2025 Dec",
+      "doi": "10.1016/j.jaci.2025.08.005"
+    }
+  ],
+  "pharmacokinetics": [
+    {
+      "type": "bioavailability",
+      "value": "88%",
+      "source_pmid": "40876763"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "drug_name": "garadacimab",
-  "search_time": "2026-04-15 16:12:00",
+  "search_time": "2026-04-15 16:27:06",
   "clinical_trials": [
     {
       "nct_id": "NCT05819775",
@@ -171,11 +171,18 @@
       "doi": "10.1016/j.jaci.2025.08.005"
     }
   ],
-  "pharmacokinetics": [
+  "downloaded_articles": [
     {
-      "type": "bioavailability",
-      "value": "88%",
-      "source_pmid": "40876763"
+      "pmid": "39370961",
+      "pmcid": "PMC11804312",
+      "status": "failed",
+      "error": "Blocked by reCAPTCHA"
+    },
+    {
+      "pmid": "40434599",
+      "pmcid": "PMC12185836",
+      "status": "failed",
+      "error": "Blocked by reCAPTCHA"
     }
   ]
 }
